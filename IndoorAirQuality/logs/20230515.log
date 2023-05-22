@@ -1,0 +1,672 @@
+5/15/2023 8:11:58 PM--Information--connection established successfully
+5/15/2023 8:11:58 PM--Information--Save COM: COM7
+5/15/2023 8:11:59 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1212 pm25=50 voc=146 co=4
+5/15/2023 8:11:59 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1212 pm25=50 voc=146 co=4
+5/15/2023 8:11:59 PM--GetData--write listView: time: 15/5/2023/20:11:59 temp=28 humi=65 co2=1212 pm25=50 voc=146 co=4
+5/15/2023 8:12:03 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1214 pm25=52 voc=140 co=3
+5/15/2023 8:12:03 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1214 pm25=52 voc=140 co=3
+5/15/2023 8:12:03 PM--GetData--write listView: time: 15/5/2023/20:12:3 temp=28 humi=65 co2=1214 pm25=52 voc=140 co=3
+5/15/2023 8:12:07 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1220 pm25=52 voc=138 co=4
+5/15/2023 8:12:07 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1220 pm25=52 voc=138 co=4
+5/15/2023 8:12:07 PM--GetData--write listView: time: 15/5/2023/20:12:7 temp=28 humi=66 co2=1220 pm25=52 voc=138 co=4
+5/15/2023 8:12:12 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1225 pm25=52 voc=138 co=4
+5/15/2023 8:12:12 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1225 pm25=52 voc=138 co=4
+5/15/2023 8:12:12 PM--GetData--write listView: time: 15/5/2023/20:12:12 temp=28 humi=66 co2=1225 pm25=52 voc=138 co=4
+5/15/2023 8:12:16 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1236 pm25=51 voc=138 co=4
+5/15/2023 8:12:16 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1236 pm25=51 voc=138 co=4
+5/15/2023 8:12:16 PM--GetData--write listView: time: 15/5/2023/20:12:16 temp=28 humi=66 co2=1236 pm25=51 voc=138 co=4
+5/15/2023 8:12:21 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1249 pm25=50 voc=139 co=4
+5/15/2023 8:12:21 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1249 pm25=50 voc=139 co=4
+5/15/2023 8:12:21 PM--GetData--write listView: time: 15/5/2023/20:12:21 temp=28 humi=66 co2=1249 pm25=50 voc=139 co=4
+5/15/2023 8:12:21 PM--Information--
+5/15/2023 8:12:25 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1251 pm25=52 voc=140 co=3
+5/15/2023 8:12:25 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1251 pm25=52 voc=140 co=3
+5/15/2023 8:12:25 PM--GetData--write listView: time: 15/5/2023/20:12:25 temp=28 humi=66 co2=1251 pm25=52 voc=140 co=3
+5/15/2023 8:12:27 PM--Information--Open log file sucessfull
+5/15/2023 8:12:30 PM--GetData--Received data from sensor: temp=28 humi=67 co2=1243 pm25=52 voc=141 co=4
+5/15/2023 8:12:30 PM--GetData--save database sucessfull: temp=28 humi=67 co2=1243 pm25=52 voc=141 co=4
+5/15/2023 8:12:30 PM--GetData--write listView: time: 15/5/2023/20:12:30 temp=28 humi=67 co2=1243 pm25=52 voc=141 co=4
+5/15/2023 8:12:34 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1239 pm25=52 voc=143 co=4
+5/15/2023 8:12:34 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1239 pm25=52 voc=143 co=4
+5/15/2023 8:12:34 PM--GetData--write listView: time: 15/5/2023/20:12:34 temp=28 humi=66 co2=1239 pm25=52 voc=143 co=4
+5/15/2023 8:12:39 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1239 pm25=51 voc=145 co=4
+5/15/2023 8:12:39 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1239 pm25=51 voc=145 co=4
+5/15/2023 8:12:39 PM--GetData--write listView: time: 15/5/2023/20:12:39 temp=28 humi=66 co2=1239 pm25=51 voc=145 co=4
+5/15/2023 8:12:43 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1243 pm25=53 voc=146 co=4
+5/15/2023 8:12:43 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1243 pm25=53 voc=146 co=4
+5/15/2023 8:12:43 PM--GetData--write listView: time: 15/5/2023/20:12:43 temp=28 humi=66 co2=1243 pm25=53 voc=146 co=4
+5/15/2023 8:12:48 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1248 pm25=54 voc=149 co=4
+5/15/2023 8:12:48 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1248 pm25=54 voc=149 co=4
+5/15/2023 8:12:48 PM--GetData--write listView: time: 15/5/2023/20:12:48 temp=28 humi=66 co2=1248 pm25=54 voc=149 co=4
+5/15/2023 8:12:52 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1265 pm25=52 voc=151 co=4
+5/15/2023 8:12:52 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1265 pm25=52 voc=151 co=4
+5/15/2023 8:12:52 PM--GetData--write listView: time: 15/5/2023/20:12:52 temp=28 humi=66 co2=1265 pm25=52 voc=151 co=4
+5/15/2023 8:12:57 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1310 pm25=53 voc=154 co=4
+5/15/2023 8:12:57 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1310 pm25=53 voc=154 co=4
+5/15/2023 8:12:57 PM--GetData--write listView: time: 15/5/2023/20:12:57 temp=28 humi=66 co2=1310 pm25=53 voc=154 co=4
+5/15/2023 8:13:02 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1322 pm25=53 voc=157 co=4
+5/15/2023 8:13:02 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1322 pm25=53 voc=157 co=4
+5/15/2023 8:13:02 PM--GetData--write listView: time: 15/5/2023/20:13:2 temp=28 humi=66 co2=1322 pm25=53 voc=157 co=4
+5/15/2023 8:13:06 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1323 pm25=52 voc=161 co=4
+5/15/2023 8:13:06 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1323 pm25=52 voc=161 co=4
+5/15/2023 8:13:06 PM--GetData--write listView: time: 15/5/2023/20:13:6 temp=28 humi=66 co2=1323 pm25=52 voc=161 co=4
+5/15/2023 8:13:07 PM--Error--System.IO.IOException: The process cannot access the file 'D:\KLTN\ExportExcel\AirQualityData.XLSX' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalDelete(String path, Boolean checkHost)
+   at System.IO.File.Delete(String path)
+   at Giaodien_Quanly_Vuon.Home.SaveToExcel() in D:\KLTN\Project\IndoorAirQuality\Giaodien_Quanly_Vuon\Home.cs:line 456 error save excel!!!
+5/15/2023 8:13:08 PM--Information--Save data into excel sucessfully
+5/15/2023 8:13:08 PM--Information--Deleted data from database sucessfully
+5/15/2023 8:13:11 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1327 pm25=51 voc=164 co=4
+5/15/2023 8:13:11 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1327 pm25=51 voc=164 co=4
+5/15/2023 8:13:11 PM--GetData--write listView: time: 15/5/2023/20:13:11 temp=28 humi=65 co2=1327 pm25=51 voc=164 co=4
+5/15/2023 8:13:15 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1326 pm25=51 voc=157 co=4
+5/15/2023 8:13:15 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1326 pm25=51 voc=157 co=4
+5/15/2023 8:13:15 PM--GetData--write listView: time: 15/5/2023/20:13:15 temp=28 humi=65 co2=1326 pm25=51 voc=157 co=4
+5/15/2023 8:13:19 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1325 pm25=52 voc=172 co=4
+5/15/2023 8:13:20 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1325 pm25=52 voc=172 co=4
+5/15/2023 8:13:20 PM--GetData--write listView: time: 15/5/2023/20:13:20 temp=28 humi=65 co2=1325 pm25=52 voc=172 co=4
+5/15/2023 8:13:23 PM--Information--close COM gate
+5/15/2023 8:15:01 PM--Information--connection established successfully
+5/15/2023 8:15:01 PM--Information--Save COM: COM7
+5/15/2023 8:15:04 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1231 pm25=51 voc=104 co=4
+5/15/2023 8:15:04 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1231 pm25=51 voc=104 co=4
+5/15/2023 8:15:04 PM--GetData--write listView: time: 15/5/2023/20:15:4 temp=28 humi=65 co2=1231 pm25=51 voc=104 co=4
+5/15/2023 8:15:09 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1257 pm25=51 voc=104 co=3
+5/15/2023 8:15:09 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1257 pm25=51 voc=104 co=3
+5/15/2023 8:15:09 PM--GetData--write listView: time: 15/5/2023/20:15:9 temp=28 humi=65 co2=1257 pm25=51 voc=104 co=3
+5/15/2023 8:15:13 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1280 pm25=50 voc=105 co=3
+5/15/2023 8:15:13 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1280 pm25=50 voc=105 co=3
+5/15/2023 8:15:13 PM--GetData--write listView: time: 15/5/2023/20:15:13 temp=28 humi=65 co2=1280 pm25=50 voc=105 co=3
+5/15/2023 8:15:17 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1306 pm25=50 voc=106 co=3
+5/15/2023 8:15:17 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1306 pm25=50 voc=106 co=3
+5/15/2023 8:15:17 PM--GetData--write listView: time: 15/5/2023/20:15:17 temp=28 humi=66 co2=1306 pm25=50 voc=106 co=3
+5/15/2023 8:15:22 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1313 pm25=50 voc=108 co=4
+5/15/2023 8:15:22 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1313 pm25=50 voc=108 co=4
+5/15/2023 8:15:22 PM--GetData--write listView: time: 15/5/2023/20:15:22 temp=28 humi=65 co2=1313 pm25=50 voc=108 co=4
+5/15/2023 8:15:26 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1314 pm25=50 voc=109 co=4
+5/15/2023 8:15:26 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1314 pm25=50 voc=109 co=4
+5/15/2023 8:15:26 PM--GetData--write listView: time: 15/5/2023/20:15:26 temp=28 humi=65 co2=1314 pm25=50 voc=109 co=4
+5/15/2023 8:15:31 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1294 pm25=50 voc=110 co=4
+5/15/2023 8:15:31 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1294 pm25=50 voc=110 co=4
+5/15/2023 8:15:31 PM--GetData--write listView: time: 15/5/2023/20:15:31 temp=28 humi=65 co2=1294 pm25=50 voc=110 co=4
+5/15/2023 8:15:36 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1280 pm25=53 voc=113 co=4
+5/15/2023 8:15:36 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1280 pm25=53 voc=113 co=4
+5/15/2023 8:15:36 PM--GetData--write listView: time: 15/5/2023/20:15:36 temp=28 humi=65 co2=1280 pm25=53 voc=113 co=4
+5/15/2023 8:15:37 PM--Information--
+5/15/2023 8:15:40 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1278 pm25=51 voc=115 co=4
+5/15/2023 8:15:40 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1278 pm25=51 voc=115 co=4
+5/15/2023 8:15:40 PM--GetData--write listView: time: 15/5/2023/20:15:40 temp=28 humi=65 co2=1278 pm25=51 voc=115 co=4
+5/15/2023 8:15:43 PM--Information--Open log file sucessfull
+5/15/2023 8:15:44 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1276 pm25=51 voc=118 co=4
+5/15/2023 8:15:44 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1276 pm25=51 voc=118 co=4
+5/15/2023 8:15:44 PM--GetData--write listView: time: 15/5/2023/20:15:44 temp=28 humi=65 co2=1276 pm25=51 voc=118 co=4
+5/15/2023 8:15:49 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1278 pm25=52 voc=121 co=3
+5/15/2023 8:15:49 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1278 pm25=52 voc=121 co=3
+5/15/2023 8:15:49 PM--GetData--write listView: time: 15/5/2023/20:15:49 temp=28 humi=65 co2=1278 pm25=52 voc=121 co=3
+5/15/2023 8:15:54 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1290 pm25=53 voc=124 co=4
+5/15/2023 8:15:54 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1290 pm25=53 voc=124 co=4
+5/15/2023 8:15:54 PM--GetData--write listView: time: 15/5/2023/20:15:54 temp=28 humi=65 co2=1290 pm25=53 voc=124 co=4
+5/15/2023 8:15:58 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1301 pm25=52 voc=128 co=4
+5/15/2023 8:15:58 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1301 pm25=52 voc=128 co=4
+5/15/2023 8:15:58 PM--GetData--write listView: time: 15/5/2023/20:15:58 temp=28 humi=65 co2=1301 pm25=52 voc=128 co=4
+5/15/2023 8:16:02 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1309 pm25=51 voc=132 co=4
+5/15/2023 8:16:02 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1309 pm25=51 voc=132 co=4
+5/15/2023 8:16:02 PM--GetData--write listView: time: 15/5/2023/20:16:2 temp=28 humi=65 co2=1309 pm25=51 voc=132 co=4
+5/15/2023 8:16:07 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1322 pm25=49 voc=135 co=4
+5/15/2023 8:16:07 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1322 pm25=49 voc=135 co=4
+5/15/2023 8:16:07 PM--GetData--write listView: time: 15/5/2023/20:16:7 temp=28 humi=65 co2=1322 pm25=49 voc=135 co=4
+5/15/2023 8:16:11 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1336 pm25=48 voc=139 co=4
+5/15/2023 8:16:11 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1336 pm25=48 voc=139 co=4
+5/15/2023 8:16:11 PM--GetData--write listView: time: 15/5/2023/20:16:11 temp=28 humi=65 co2=1336 pm25=48 voc=139 co=4
+5/15/2023 8:16:16 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1332 pm25=50 voc=143 co=4
+5/15/2023 8:16:16 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1332 pm25=50 voc=143 co=4
+5/15/2023 8:16:16 PM--GetData--write listView: time: 15/5/2023/20:16:16 temp=28 humi=65 co2=1332 pm25=50 voc=143 co=4
+5/15/2023 8:16:20 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1322 pm25=52 voc=148 co=4
+5/15/2023 8:16:20 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1322 pm25=52 voc=148 co=4
+5/15/2023 8:16:20 PM--GetData--write listView: time: 15/5/2023/20:16:20 temp=28 humi=65 co2=1322 pm25=52 voc=148 co=4
+5/15/2023 8:16:23 PM--Information--Save data into excel sucessfully
+5/15/2023 8:16:23 PM--Information--Deleted data from database sucessfully
+5/15/2023 8:16:25 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1310 pm25=52 voc=152 co=4
+5/15/2023 8:16:25 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1310 pm25=52 voc=152 co=4
+5/15/2023 8:16:25 PM--GetData--write listView: time: 15/5/2023/20:16:25 temp=28 humi=65 co2=1310 pm25=52 voc=152 co=4
+5/15/2023 8:16:29 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1305 pm25=53 voc=156 co=4
+5/15/2023 8:16:29 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1305 pm25=53 voc=156 co=4
+5/15/2023 8:16:29 PM--GetData--write listView: time: 15/5/2023/20:16:29 temp=28 humi=65 co2=1305 pm25=53 voc=156 co=4
+5/15/2023 8:16:34 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1298 pm25=51 voc=160 co=4
+5/15/2023 8:16:34 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1298 pm25=51 voc=160 co=4
+5/15/2023 8:16:34 PM--GetData--write listView: time: 15/5/2023/20:16:34 temp=28 humi=65 co2=1298 pm25=51 voc=160 co=4
+5/15/2023 8:16:38 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1298 pm25=51 voc=164 co=4
+5/15/2023 8:16:38 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1298 pm25=51 voc=164 co=4
+5/15/2023 8:16:38 PM--GetData--write listView: time: 15/5/2023/20:16:38 temp=28 humi=65 co2=1298 pm25=51 voc=164 co=4
+5/15/2023 8:16:43 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1308 pm25=50 voc=168 co=4
+5/15/2023 8:16:43 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1308 pm25=50 voc=168 co=4
+5/15/2023 8:16:43 PM--GetData--write listView: time: 15/5/2023/20:16:43 temp=28 humi=65 co2=1308 pm25=50 voc=168 co=4
+5/15/2023 8:16:47 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1306 pm25=50 voc=171 co=4
+5/15/2023 8:16:47 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1306 pm25=50 voc=171 co=4
+5/15/2023 8:16:47 PM--GetData--write listView: time: 15/5/2023/20:16:47 temp=28 humi=65 co2=1306 pm25=50 voc=171 co=4
+5/15/2023 8:16:52 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1296 pm25=51 voc=175 co=4
+5/15/2023 8:16:52 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1296 pm25=51 voc=175 co=4
+5/15/2023 8:16:52 PM--GetData--write listView: time: 15/5/2023/20:16:52 temp=28 humi=65 co2=1296 pm25=51 voc=175 co=4
+5/15/2023 8:16:57 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1281 pm25=52 voc=179 co=4
+5/15/2023 8:16:57 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1281 pm25=52 voc=179 co=4
+5/15/2023 8:16:57 PM--GetData--write listView: time: 15/5/2023/20:16:57 temp=28 humi=65 co2=1281 pm25=52 voc=179 co=4
+5/15/2023 8:17:01 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1278 pm25=51 voc=182 co=4
+5/15/2023 8:17:01 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1278 pm25=51 voc=182 co=4
+5/15/2023 8:17:01 PM--GetData--write listView: time: 15/5/2023/20:17:1 temp=28 humi=65 co2=1278 pm25=51 voc=182 co=4
+5/15/2023 8:17:06 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1285 pm25=51 voc=186 co=4
+5/15/2023 8:17:06 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1285 pm25=51 voc=186 co=4
+5/15/2023 8:17:06 PM--GetData--write listView: time: 15/5/2023/20:17:6 temp=28 humi=65 co2=1285 pm25=51 voc=186 co=4
+5/15/2023 8:17:10 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1294 pm25=52 voc=190 co=4
+5/15/2023 8:17:10 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1294 pm25=52 voc=190 co=4
+5/15/2023 8:17:10 PM--GetData--write listView: time: 15/5/2023/20:17:10 temp=28 humi=65 co2=1294 pm25=52 voc=190 co=4
+5/15/2023 8:17:15 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1304 pm25=52 voc=194 co=4
+5/15/2023 8:17:15 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1304 pm25=52 voc=194 co=4
+5/15/2023 8:17:15 PM--GetData--write listView: time: 15/5/2023/20:17:15 temp=28 humi=65 co2=1304 pm25=52 voc=194 co=4
+5/15/2023 8:17:19 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1312 pm25=51 voc=197 co=4
+5/15/2023 8:17:19 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1312 pm25=51 voc=197 co=4
+5/15/2023 8:17:19 PM--GetData--write listView: time: 15/5/2023/20:17:19 temp=28 humi=65 co2=1312 pm25=51 voc=197 co=4
+5/15/2023 8:17:24 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1312 pm25=48 voc=200 co=4
+5/15/2023 8:17:24 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1312 pm25=48 voc=200 co=4
+5/15/2023 8:17:24 PM--GetData--write listView: time: 15/5/2023/20:17:24 temp=28 humi=65 co2=1312 pm25=48 voc=200 co=4
+5/15/2023 8:17:28 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1307 pm25=49 voc=203 co=4
+5/15/2023 8:17:28 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1307 pm25=49 voc=203 co=4
+5/15/2023 8:17:28 PM--GetData--write listView: time: 15/5/2023/20:17:28 temp=28 humi=65 co2=1307 pm25=49 voc=203 co=4
+5/15/2023 8:17:33 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1306 pm25=49 voc=207 co=4
+5/15/2023 8:17:33 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1306 pm25=49 voc=207 co=4
+5/15/2023 8:17:33 PM--GetData--write listView: time: 15/5/2023/20:17:33 temp=28 humi=65 co2=1306 pm25=49 voc=207 co=4
+5/15/2023 8:17:37 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1301 pm25=48 voc=209 co=4
+5/15/2023 8:17:37 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1301 pm25=48 voc=209 co=4
+5/15/2023 8:17:37 PM--GetData--write listView: time: 15/5/2023/20:17:37 temp=28 humi=65 co2=1301 pm25=48 voc=209 co=4
+5/15/2023 8:17:42 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1305 pm25=50 voc=213 co=4
+5/15/2023 8:17:42 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1305 pm25=50 voc=213 co=4
+5/15/2023 8:17:42 PM--GetData--write listView: time: 15/5/2023/20:17:42 temp=28 humi=65 co2=1305 pm25=50 voc=213 co=4
+5/15/2023 8:17:46 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1301 pm25=52 voc=214 co=4
+5/15/2023 8:17:46 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1301 pm25=52 voc=214 co=4
+5/15/2023 8:17:46 PM--GetData--write listView: time: 15/5/2023/20:17:46 temp=28 humi=65 co2=1301 pm25=52 voc=214 co=4
+5/15/2023 8:17:51 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1294 pm25=51 voc=219 co=4
+5/15/2023 8:17:51 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1294 pm25=51 voc=219 co=4
+5/15/2023 8:17:51 PM--GetData--write listView: time: 15/5/2023/20:17:51 temp=28 humi=65 co2=1294 pm25=51 voc=219 co=4
+5/15/2023 8:17:55 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1289 pm25=50 voc=222 co=4
+5/15/2023 8:17:55 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1289 pm25=50 voc=222 co=4
+5/15/2023 8:17:55 PM--GetData--write listView: time: 15/5/2023/20:17:55 temp=28 humi=65 co2=1289 pm25=50 voc=222 co=4
+5/15/2023 8:18:00 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1287 pm25=52 voc=225 co=4
+5/15/2023 8:18:00 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1287 pm25=52 voc=225 co=4
+5/15/2023 8:18:00 PM--GetData--write listView: time: 15/5/2023/20:18:0 temp=28 humi=65 co2=1287 pm25=52 voc=225 co=4
+5/15/2023 8:18:04 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1288 pm25=51 voc=228 co=4
+5/15/2023 8:18:04 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1288 pm25=51 voc=228 co=4
+5/15/2023 8:18:04 PM--GetData--write listView: time: 15/5/2023/20:18:4 temp=28 humi=65 co2=1288 pm25=51 voc=228 co=4
+5/15/2023 8:18:09 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1294 pm25=51 voc=230 co=4
+5/15/2023 8:18:09 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1294 pm25=51 voc=230 co=4
+5/15/2023 8:18:09 PM--GetData--write listView: time: 15/5/2023/20:18:9 temp=28 humi=65 co2=1294 pm25=51 voc=230 co=4
+5/15/2023 8:18:13 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1296 pm25=51 voc=233 co=4
+5/15/2023 8:18:13 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1296 pm25=51 voc=233 co=4
+5/15/2023 8:18:13 PM--GetData--write listView: time: 15/5/2023/20:18:13 temp=28 humi=65 co2=1296 pm25=51 voc=233 co=4
+5/15/2023 8:18:17 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1303 pm25=51 voc=235 co=4
+5/15/2023 8:18:17 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1303 pm25=51 voc=235 co=4
+5/15/2023 8:18:17 PM--GetData--write listView: time: 15/5/2023/20:18:17 temp=28 humi=65 co2=1303 pm25=51 voc=235 co=4
+5/15/2023 8:18:22 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1303 pm25=50 voc=237 co=4
+5/15/2023 8:18:22 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1303 pm25=50 voc=237 co=4
+5/15/2023 8:18:22 PM--GetData--write listView: time: 15/5/2023/20:18:22 temp=28 humi=65 co2=1303 pm25=50 voc=237 co=4
+5/15/2023 8:18:27 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1308 pm25=50 voc=239 co=4
+5/15/2023 8:18:27 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1308 pm25=50 voc=239 co=4
+5/15/2023 8:18:27 PM--GetData--write listView: time: 15/5/2023/20:18:27 temp=28 humi=65 co2=1308 pm25=50 voc=239 co=4
+5/15/2023 8:18:31 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1308 pm25=52 voc=243 co=4
+5/15/2023 8:18:31 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1308 pm25=52 voc=243 co=4
+5/15/2023 8:18:31 PM--GetData--write listView: time: 15/5/2023/20:18:31 temp=28 humi=66 co2=1308 pm25=52 voc=243 co=4
+5/15/2023 8:18:35 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1319 pm25=52 voc=245 co=4
+5/15/2023 8:18:35 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1319 pm25=52 voc=245 co=4
+5/15/2023 8:18:35 PM--GetData--write listView: time: 15/5/2023/20:18:35 temp=28 humi=65 co2=1319 pm25=52 voc=245 co=4
+5/15/2023 8:18:40 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1325 pm25=52 voc=247 co=4
+5/15/2023 8:18:40 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1325 pm25=52 voc=247 co=4
+5/15/2023 8:18:40 PM--GetData--write listView: time: 15/5/2023/20:18:40 temp=28 humi=65 co2=1325 pm25=52 voc=247 co=4
+5/15/2023 8:18:44 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1324 pm25=50 voc=249 co=4
+5/15/2023 8:18:44 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1324 pm25=50 voc=249 co=4
+5/15/2023 8:18:44 PM--GetData--write listView: time: 15/5/2023/20:18:44 temp=28 humi=65 co2=1324 pm25=50 voc=249 co=4
+5/15/2023 8:18:49 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1324 pm25=50 voc=251 co=4
+5/15/2023 8:18:49 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1324 pm25=50 voc=251 co=4
+5/15/2023 8:18:49 PM--GetData--write listView: time: 15/5/2023/20:18:49 temp=28 humi=65 co2=1324 pm25=50 voc=251 co=4
+5/15/2023 8:18:53 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1322 pm25=51 voc=254 co=4
+5/15/2023 8:18:53 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1322 pm25=51 voc=254 co=4
+5/15/2023 8:18:53 PM--GetData--write listView: time: 15/5/2023/20:18:53 temp=28 humi=65 co2=1322 pm25=51 voc=254 co=4
+5/15/2023 8:18:58 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1313 pm25=49 voc=256 co=4
+5/15/2023 8:18:58 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1313 pm25=49 voc=256 co=4
+5/15/2023 8:18:58 PM--GetData--write listView: time: 15/5/2023/20:18:58 temp=28 humi=65 co2=1313 pm25=49 voc=256 co=4
+5/15/2023 8:19:03 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1307 pm25=51 voc=258 co=4
+5/15/2023 8:19:03 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1307 pm25=51 voc=258 co=4
+5/15/2023 8:19:03 PM--GetData--write listView: time: 15/5/2023/20:19:3 temp=28 humi=65 co2=1307 pm25=51 voc=258 co=4
+5/15/2023 8:19:07 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1311 pm25=51 voc=260 co=4
+5/15/2023 8:19:07 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1311 pm25=51 voc=260 co=4
+5/15/2023 8:19:07 PM--GetData--write listView: time: 15/5/2023/20:19:7 temp=28 humi=65 co2=1311 pm25=51 voc=260 co=4
+5/15/2023 8:19:12 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1309 pm25=51 voc=260 co=4
+5/15/2023 8:19:12 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1309 pm25=51 voc=260 co=4
+5/15/2023 8:19:12 PM--GetData--write listView: time: 15/5/2023/20:19:12 temp=28 humi=65 co2=1309 pm25=51 voc=260 co=4
+5/15/2023 8:19:16 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1309 pm25=51 voc=263 co=4
+5/15/2023 8:19:16 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1309 pm25=51 voc=263 co=4
+5/15/2023 8:19:16 PM--GetData--write listView: time: 15/5/2023/20:19:16 temp=28 humi=65 co2=1309 pm25=51 voc=263 co=4
+5/15/2023 8:19:21 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1309 pm25=51 voc=266 co=4
+5/15/2023 8:19:21 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1309 pm25=51 voc=266 co=4
+5/15/2023 8:19:21 PM--GetData--write listView: time: 15/5/2023/20:19:21 temp=28 humi=65 co2=1309 pm25=51 voc=266 co=4
+5/15/2023 8:19:25 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1304 pm25=50 voc=267 co=4
+5/15/2023 8:19:25 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1304 pm25=50 voc=267 co=4
+5/15/2023 8:19:25 PM--GetData--write listView: time: 15/5/2023/20:19:25 temp=28 humi=65 co2=1304 pm25=50 voc=267 co=4
+5/15/2023 8:19:30 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1308 pm25=50 voc=269 co=4
+5/15/2023 8:19:30 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1308 pm25=50 voc=269 co=4
+5/15/2023 8:19:30 PM--GetData--write listView: time: 15/5/2023/20:19:30 temp=28 humi=65 co2=1308 pm25=50 voc=269 co=4
+5/15/2023 8:19:34 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1310 pm25=52 voc=270 co=4
+5/15/2023 8:19:34 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1310 pm25=52 voc=270 co=4
+5/15/2023 8:19:34 PM--GetData--write listView: time: 15/5/2023/20:19:34 temp=28 humi=65 co2=1310 pm25=52 voc=270 co=4
+5/15/2023 8:19:39 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1310 pm25=50 voc=273 co=4
+5/15/2023 8:19:39 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1310 pm25=50 voc=273 co=4
+5/15/2023 8:19:39 PM--GetData--write listView: time: 15/5/2023/20:19:39 temp=28 humi=65 co2=1310 pm25=50 voc=273 co=4
+5/15/2023 8:19:43 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1310 pm25=50 voc=274 co=4
+5/15/2023 8:19:43 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1310 pm25=50 voc=274 co=4
+5/15/2023 8:19:43 PM--GetData--write listView: time: 15/5/2023/20:19:43 temp=28 humi=64 co2=1310 pm25=50 voc=274 co=4
+5/15/2023 8:19:47 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1308 pm25=49 voc=275 co=4
+5/15/2023 8:19:47 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1308 pm25=49 voc=275 co=4
+5/15/2023 8:19:47 PM--GetData--write listView: time: 15/5/2023/20:19:47 temp=28 humi=64 co2=1308 pm25=49 voc=275 co=4
+5/15/2023 8:19:52 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1299 pm25=49 voc=277 co=4
+5/15/2023 8:19:52 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1299 pm25=49 voc=277 co=4
+5/15/2023 8:19:52 PM--GetData--write listView: time: 15/5/2023/20:19:52 temp=28 humi=64 co2=1299 pm25=49 voc=277 co=4
+5/15/2023 8:19:56 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1293 pm25=48 voc=278 co=4
+5/15/2023 8:19:56 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1293 pm25=48 voc=278 co=4
+5/15/2023 8:19:56 PM--GetData--write listView: time: 15/5/2023/20:19:56 temp=28 humi=65 co2=1293 pm25=48 voc=278 co=4
+5/15/2023 8:20:01 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1285 pm25=49 voc=280 co=4
+5/15/2023 8:20:01 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1285 pm25=49 voc=280 co=4
+5/15/2023 8:20:01 PM--GetData--write listView: time: 15/5/2023/20:20:1 temp=28 humi=65 co2=1285 pm25=49 voc=280 co=4
+5/15/2023 8:20:05 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1283 pm25=51 voc=281 co=4
+5/15/2023 8:20:05 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1283 pm25=51 voc=281 co=4
+5/15/2023 8:20:05 PM--GetData--write listView: time: 15/5/2023/20:20:5 temp=28 humi=64 co2=1283 pm25=51 voc=281 co=4
+5/15/2023 8:20:10 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1285 pm25=51 voc=282 co=4
+5/15/2023 8:20:10 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1285 pm25=51 voc=282 co=4
+5/15/2023 8:20:10 PM--GetData--write listView: time: 15/5/2023/20:20:10 temp=28 humi=64 co2=1285 pm25=51 voc=282 co=4
+5/15/2023 8:20:14 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1278 pm25=50 voc=284 co=4
+5/15/2023 8:20:14 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1278 pm25=50 voc=284 co=4
+5/15/2023 8:20:14 PM--GetData--write listView: time: 15/5/2023/20:20:14 temp=28 humi=64 co2=1278 pm25=50 voc=284 co=4
+5/15/2023 8:20:19 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1271 pm25=50 voc=285 co=4
+5/15/2023 8:20:19 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1271 pm25=50 voc=285 co=4
+5/15/2023 8:20:19 PM--GetData--write listView: time: 15/5/2023/20:20:19 temp=28 humi=64 co2=1271 pm25=50 voc=285 co=4
+5/15/2023 8:20:23 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1267 pm25=49 voc=286 co=4
+5/15/2023 8:20:23 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1267 pm25=49 voc=286 co=4
+5/15/2023 8:20:23 PM--GetData--write listView: time: 15/5/2023/20:20:23 temp=28 humi=64 co2=1267 pm25=49 voc=286 co=4
+5/15/2023 8:20:27 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1260 pm25=48 voc=287 co=4
+5/15/2023 8:20:27 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1260 pm25=48 voc=287 co=4
+5/15/2023 8:20:27 PM--GetData--write listView: time: 15/5/2023/20:20:27 temp=28 humi=64 co2=1260 pm25=48 voc=287 co=4
+5/15/2023 8:20:32 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1260 pm25=51 voc=286 co=4
+5/15/2023 8:20:32 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1260 pm25=51 voc=286 co=4
+5/15/2023 8:20:32 PM--GetData--write listView: time: 15/5/2023/20:20:32 temp=28 humi=65 co2=1260 pm25=51 voc=286 co=4
+5/15/2023 8:20:36 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1264 pm25=52 voc=290 co=4
+5/15/2023 8:20:36 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1264 pm25=52 voc=290 co=4
+5/15/2023 8:20:36 PM--GetData--write listView: time: 15/5/2023/20:20:36 temp=28 humi=65 co2=1264 pm25=52 voc=290 co=4
+5/15/2023 8:20:41 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1271 pm25=52 voc=291 co=4
+5/15/2023 8:20:41 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1271 pm25=52 voc=291 co=4
+5/15/2023 8:20:41 PM--GetData--write listView: time: 15/5/2023/20:20:41 temp=28 humi=65 co2=1271 pm25=52 voc=291 co=4
+5/15/2023 8:20:45 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1274 pm25=51 voc=291 co=4
+5/15/2023 8:20:45 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1274 pm25=51 voc=291 co=4
+5/15/2023 8:20:45 PM--GetData--write listView: time: 15/5/2023/20:20:45 temp=28 humi=64 co2=1274 pm25=51 voc=291 co=4
+5/15/2023 8:20:50 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1274 pm25=52 voc=292 co=4
+5/15/2023 8:20:50 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1274 pm25=52 voc=292 co=4
+5/15/2023 8:20:50 PM--GetData--write listView: time: 15/5/2023/20:20:50 temp=28 humi=64 co2=1274 pm25=52 voc=292 co=4
+5/15/2023 8:20:55 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1271 pm25=52 voc=293 co=4
+5/15/2023 8:20:55 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1271 pm25=52 voc=293 co=4
+5/15/2023 8:20:55 PM--GetData--write listView: time: 15/5/2023/20:20:55 temp=28 humi=64 co2=1271 pm25=52 voc=293 co=4
+5/15/2023 8:20:59 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1267 pm25=52 voc=295 co=5
+5/15/2023 8:20:59 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1267 pm25=52 voc=295 co=5
+5/15/2023 8:20:59 PM--GetData--write listView: time: 15/5/2023/20:20:59 temp=28 humi=64 co2=1267 pm25=52 voc=295 co=5
+5/15/2023 8:21:03 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1256 pm25=51 voc=295 co=4
+5/15/2023 8:21:03 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1256 pm25=51 voc=295 co=4
+5/15/2023 8:21:03 PM--GetData--write listView: time: 15/5/2023/20:21:3 temp=28 humi=64 co2=1256 pm25=51 voc=295 co=4
+5/15/2023 8:21:08 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1255 pm25=51 voc=296 co=4
+5/15/2023 8:21:08 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1255 pm25=51 voc=296 co=4
+5/15/2023 8:21:08 PM--GetData--write listView: time: 15/5/2023/20:21:8 temp=28 humi=64 co2=1255 pm25=51 voc=296 co=4
+5/15/2023 8:21:12 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1252 pm25=51 voc=296 co=4
+5/15/2023 8:21:12 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1252 pm25=51 voc=296 co=4
+5/15/2023 8:21:12 PM--GetData--write listView: time: 15/5/2023/20:21:12 temp=28 humi=64 co2=1252 pm25=51 voc=296 co=4
+5/15/2023 8:21:17 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1245 pm25=51 voc=296 co=5
+5/15/2023 8:21:17 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1245 pm25=51 voc=296 co=5
+5/15/2023 8:21:17 PM--GetData--write listView: time: 15/5/2023/20:21:17 temp=28 humi=64 co2=1245 pm25=51 voc=296 co=5
+5/15/2023 8:21:21 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1246 pm25=51 voc=299 co=4
+5/15/2023 8:21:21 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1246 pm25=51 voc=299 co=4
+5/15/2023 8:21:21 PM--GetData--write listView: time: 15/5/2023/20:21:21 temp=28 humi=65 co2=1246 pm25=51 voc=299 co=4
+5/15/2023 8:21:26 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1245 pm25=51 voc=300 co=5
+5/15/2023 8:21:26 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1245 pm25=51 voc=300 co=5
+5/15/2023 8:21:26 PM--GetData--write listView: time: 15/5/2023/20:21:26 temp=28 humi=65 co2=1245 pm25=51 voc=300 co=5
+5/15/2023 8:21:30 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1246 pm25=51 voc=301 co=5
+5/15/2023 8:21:30 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1246 pm25=51 voc=301 co=5
+5/15/2023 8:21:30 PM--GetData--write listView: time: 15/5/2023/20:21:30 temp=28 humi=65 co2=1246 pm25=51 voc=301 co=5
+5/15/2023 8:21:35 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1248 pm25=50 voc=301 co=4
+5/15/2023 8:21:35 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1248 pm25=50 voc=301 co=4
+5/15/2023 8:21:35 PM--GetData--write listView: time: 15/5/2023/20:21:35 temp=28 humi=64 co2=1248 pm25=50 voc=301 co=4
+5/15/2023 8:21:39 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1254 pm25=51 voc=302 co=5
+5/15/2023 8:21:39 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1254 pm25=51 voc=302 co=5
+5/15/2023 8:21:39 PM--GetData--write listView: time: 15/5/2023/20:21:39 temp=28 humi=65 co2=1254 pm25=51 voc=302 co=5
+5/15/2023 8:21:44 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1254 pm25=49 voc=303 co=5
+5/15/2023 8:21:44 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1254 pm25=49 voc=303 co=5
+5/15/2023 8:21:44 PM--GetData--write listView: time: 15/5/2023/20:21:44 temp=28 humi=64 co2=1254 pm25=49 voc=303 co=5
+5/15/2023 8:21:48 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1249 pm25=51 voc=304 co=5
+5/15/2023 8:21:48 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1249 pm25=51 voc=304 co=5
+5/15/2023 8:21:48 PM--GetData--write listView: time: 15/5/2023/20:21:48 temp=28 humi=64 co2=1249 pm25=51 voc=304 co=5
+5/15/2023 8:21:53 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1255 pm25=48 voc=305 co=4
+5/15/2023 8:21:53 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1255 pm25=48 voc=305 co=4
+5/15/2023 8:21:53 PM--GetData--write listView: time: 15/5/2023/20:21:53 temp=28 humi=64 co2=1255 pm25=48 voc=305 co=4
+5/15/2023 8:21:57 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1263 pm25=50 voc=306 co=5
+5/15/2023 8:21:57 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1263 pm25=50 voc=306 co=5
+5/15/2023 8:21:57 PM--GetData--write listView: time: 15/5/2023/20:21:57 temp=28 humi=65 co2=1263 pm25=50 voc=306 co=5
+5/15/2023 8:22:02 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1260 pm25=52 voc=305 co=5
+5/15/2023 8:22:02 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1260 pm25=52 voc=305 co=5
+5/15/2023 8:22:02 PM--GetData--write listView: time: 15/5/2023/20:22:2 temp=28 humi=64 co2=1260 pm25=52 voc=305 co=5
+5/15/2023 8:22:06 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1260 pm25=51 voc=308 co=5
+5/15/2023 8:22:06 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1260 pm25=51 voc=308 co=5
+5/15/2023 8:22:06 PM--GetData--write listView: time: 15/5/2023/20:22:6 temp=28 humi=65 co2=1260 pm25=51 voc=308 co=5
+5/15/2023 8:22:11 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1249 pm25=50 voc=309 co=5
+5/15/2023 8:22:11 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1249 pm25=50 voc=309 co=5
+5/15/2023 8:22:11 PM--GetData--write listView: time: 15/5/2023/20:22:11 temp=28 humi=64 co2=1249 pm25=50 voc=309 co=5
+5/15/2023 8:22:15 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1237 pm25=49 voc=310 co=5
+5/15/2023 8:22:15 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1237 pm25=49 voc=310 co=5
+5/15/2023 8:22:15 PM--GetData--write listView: time: 15/5/2023/20:22:15 temp=28 humi=64 co2=1237 pm25=49 voc=310 co=5
+5/15/2023 8:22:20 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1232 pm25=50 voc=311 co=5
+5/15/2023 8:22:20 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1232 pm25=50 voc=311 co=5
+5/15/2023 8:22:20 PM--GetData--write listView: time: 15/5/2023/20:22:20 temp=28 humi=64 co2=1232 pm25=50 voc=311 co=5
+5/15/2023 8:22:24 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1231 pm25=49 voc=311 co=5
+5/15/2023 8:22:24 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1231 pm25=49 voc=311 co=5
+5/15/2023 8:22:24 PM--GetData--write listView: time: 15/5/2023/20:22:24 temp=28 humi=64 co2=1231 pm25=49 voc=311 co=5
+5/15/2023 8:22:29 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1225 pm25=50 voc=312 co=5
+5/15/2023 8:22:29 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1225 pm25=50 voc=312 co=5
+5/15/2023 8:22:29 PM--GetData--write listView: time: 15/5/2023/20:22:29 temp=28 humi=64 co2=1225 pm25=50 voc=312 co=5
+5/15/2023 8:22:33 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1227 pm25=52 voc=313 co=5
+5/15/2023 8:22:33 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1227 pm25=52 voc=313 co=5
+5/15/2023 8:22:33 PM--GetData--write listView: time: 15/5/2023/20:22:33 temp=28 humi=65 co2=1227 pm25=52 voc=313 co=5
+5/15/2023 8:22:38 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1232 pm25=50 voc=314 co=5
+5/15/2023 8:22:38 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1232 pm25=50 voc=314 co=5
+5/15/2023 8:22:38 PM--GetData--write listView: time: 15/5/2023/20:22:38 temp=28 humi=65 co2=1232 pm25=50 voc=314 co=5
+5/15/2023 8:22:42 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1241 pm25=52 voc=315 co=5
+5/15/2023 8:22:42 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1241 pm25=52 voc=315 co=5
+5/15/2023 8:22:42 PM--GetData--write listView: time: 15/5/2023/20:22:42 temp=28 humi=65 co2=1241 pm25=52 voc=315 co=5
+5/15/2023 8:22:47 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1248 pm25=52 voc=315 co=5
+5/15/2023 8:22:47 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1248 pm25=52 voc=315 co=5
+5/15/2023 8:22:47 PM--GetData--write listView: time: 15/5/2023/20:22:47 temp=28 humi=65 co2=1248 pm25=52 voc=315 co=5
+5/15/2023 8:22:51 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1247 pm25=52 voc=316 co=5
+5/15/2023 8:22:51 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1247 pm25=52 voc=316 co=5
+5/15/2023 8:22:51 PM--GetData--write listView: time: 15/5/2023/20:22:51 temp=28 humi=64 co2=1247 pm25=52 voc=316 co=5
+5/15/2023 8:22:56 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1250 pm25=51 voc=317 co=5
+5/15/2023 8:22:56 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1250 pm25=51 voc=317 co=5
+5/15/2023 8:22:56 PM--GetData--write listView: time: 15/5/2023/20:22:56 temp=28 humi=65 co2=1250 pm25=51 voc=317 co=5
+5/15/2023 8:23:00 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1252 pm25=50 voc=318 co=5
+5/15/2023 8:23:00 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1252 pm25=50 voc=318 co=5
+5/15/2023 8:23:00 PM--GetData--write listView: time: 15/5/2023/20:23:0 temp=28 humi=65 co2=1252 pm25=50 voc=318 co=5
+5/15/2023 8:23:05 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1247 pm25=50 voc=318 co=5
+5/15/2023 8:23:05 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1247 pm25=50 voc=318 co=5
+5/15/2023 8:23:05 PM--GetData--write listView: time: 15/5/2023/20:23:5 temp=28 humi=66 co2=1247 pm25=50 voc=318 co=5
+5/15/2023 8:23:09 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1247 pm25=50 voc=319 co=5
+5/15/2023 8:23:09 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1247 pm25=50 voc=319 co=5
+5/15/2023 8:23:09 PM--GetData--write listView: time: 15/5/2023/20:23:9 temp=28 humi=66 co2=1247 pm25=50 voc=319 co=5
+5/15/2023 8:23:14 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1246 pm25=51 voc=321 co=5
+5/15/2023 8:23:14 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1246 pm25=51 voc=321 co=5
+5/15/2023 8:23:14 PM--GetData--write listView: time: 15/5/2023/20:23:14 temp=28 humi=66 co2=1246 pm25=51 voc=321 co=5
+5/15/2023 8:23:18 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1246 pm25=50 voc=321 co=5
+5/15/2023 8:23:18 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1246 pm25=50 voc=321 co=5
+5/15/2023 8:23:18 PM--GetData--write listView: time: 15/5/2023/20:23:18 temp=28 humi=66 co2=1246 pm25=50 voc=321 co=5
+5/15/2023 8:23:23 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1247 pm25=51 voc=321 co=5
+5/15/2023 8:23:23 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1247 pm25=51 voc=321 co=5
+5/15/2023 8:23:23 PM--GetData--write listView: time: 15/5/2023/20:23:23 temp=28 humi=66 co2=1247 pm25=51 voc=321 co=5
+5/15/2023 8:23:27 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1258 pm25=50 voc=320 co=5
+5/15/2023 8:23:27 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1258 pm25=50 voc=320 co=5
+5/15/2023 8:23:27 PM--GetData--write listView: time: 15/5/2023/20:23:27 temp=28 humi=65 co2=1258 pm25=50 voc=320 co=5
+5/15/2023 8:23:32 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1254 pm25=51 voc=323 co=5
+5/15/2023 8:23:32 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1254 pm25=51 voc=323 co=5
+5/15/2023 8:23:32 PM--GetData--write listView: time: 15/5/2023/20:23:32 temp=28 humi=65 co2=1254 pm25=51 voc=323 co=5
+5/15/2023 8:23:36 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1246 pm25=52 voc=323 co=5
+5/15/2023 8:23:36 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1246 pm25=52 voc=323 co=5
+5/15/2023 8:23:36 PM--GetData--write listView: time: 15/5/2023/20:23:36 temp=28 humi=66 co2=1246 pm25=52 voc=323 co=5
+5/15/2023 8:23:41 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1243 pm25=52 voc=324 co=5
+5/15/2023 8:23:41 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1243 pm25=52 voc=324 co=5
+5/15/2023 8:23:41 PM--GetData--write listView: time: 15/5/2023/20:23:41 temp=28 humi=66 co2=1243 pm25=52 voc=324 co=5
+5/15/2023 8:23:45 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1248 pm25=51 voc=324 co=5
+5/15/2023 8:23:46 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1248 pm25=51 voc=324 co=5
+5/15/2023 8:23:46 PM--GetData--write listView: time: 15/5/2023/20:23:46 temp=28 humi=65 co2=1248 pm25=51 voc=324 co=5
+5/15/2023 8:23:50 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1260 pm25=52 voc=325 co=5
+5/15/2023 8:23:50 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1260 pm25=52 voc=325 co=5
+5/15/2023 8:23:50 PM--GetData--write listView: time: 15/5/2023/20:23:50 temp=28 humi=65 co2=1260 pm25=52 voc=325 co=5
+5/15/2023 8:23:54 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1268 pm25=52 voc=325 co=5
+5/15/2023 8:23:54 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1268 pm25=52 voc=325 co=5
+5/15/2023 8:23:54 PM--GetData--write listView: time: 15/5/2023/20:23:54 temp=28 humi=65 co2=1268 pm25=52 voc=325 co=5
+5/15/2023 8:23:59 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1268 pm25=52 voc=325 co=5
+5/15/2023 8:23:59 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1268 pm25=52 voc=325 co=5
+5/15/2023 8:23:59 PM--GetData--write listView: time: 15/5/2023/20:23:59 temp=28 humi=65 co2=1268 pm25=52 voc=325 co=5
+5/15/2023 8:24:03 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1263 pm25=50 voc=325 co=5
+5/15/2023 8:24:03 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1263 pm25=50 voc=325 co=5
+5/15/2023 8:24:03 PM--GetData--write listView: time: 15/5/2023/20:24:3 temp=28 humi=65 co2=1263 pm25=50 voc=325 co=5
+5/15/2023 8:24:08 PM--Error--Received data error!!
+5/15/2023 8:24:09 PM--Error--Received data error!!
+5/15/2023 8:24:09 PM--Error--Received data error!!
+5/15/2023 8:24:09 PM--Error--Received data error!!
+5/15/2023 8:24:10 PM--Error--Received data error!!
+5/15/2023 8:24:10 PM--Error--Received data error!!
+5/15/2023 8:24:10 PM--Information--close COM gate
+5/15/2023 8:28:32 PM--Information--connection established successfully
+5/15/2023 8:28:32 PM--Information--Save COM: COM7
+5/15/2023 8:28:33 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1265 pm25=47 voc=81 co=3
+5/15/2023 8:28:33 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1265 pm25=47 voc=81 co=3
+5/15/2023 8:28:33 PM--GetData--write listView: time: 15/5/2023/20:28:33 temp=28 humi=64 co2=1265 pm25=47 voc=81 co=3
+5/15/2023 8:28:38 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1263 pm25=51 voc=73 co=3
+5/15/2023 8:28:38 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1263 pm25=51 voc=73 co=3
+5/15/2023 8:28:38 PM--GetData--write listView: time: 15/5/2023/20:28:38 temp=28 humi=65 co2=1263 pm25=51 voc=73 co=3
+5/15/2023 8:28:43 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1272 pm25=52 voc=71 co=3
+5/15/2023 8:28:43 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1272 pm25=52 voc=71 co=3
+5/15/2023 8:28:43 PM--GetData--write listView: time: 15/5/2023/20:28:43 temp=28 humi=65 co2=1272 pm25=52 voc=71 co=3
+5/15/2023 8:28:47 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1278 pm25=50 voc=72 co=4
+5/15/2023 8:28:47 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1278 pm25=50 voc=72 co=4
+5/15/2023 8:28:47 PM--GetData--write listView: time: 15/5/2023/20:28:47 temp=28 humi=66 co2=1278 pm25=50 voc=72 co=4
+5/15/2023 8:28:51 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1274 pm25=51 voc=73 co=4
+5/15/2023 8:28:51 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1274 pm25=51 voc=73 co=4
+5/15/2023 8:28:51 PM--GetData--write listView: time: 15/5/2023/20:28:51 temp=28 humi=66 co2=1274 pm25=51 voc=73 co=4
+5/15/2023 8:28:56 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1263 pm25=51 voc=74 co=3
+5/15/2023 8:28:56 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1263 pm25=51 voc=74 co=3
+5/15/2023 8:28:56 PM--GetData--write listView: time: 15/5/2023/20:28:56 temp=28 humi=66 co2=1263 pm25=51 voc=74 co=3
+5/15/2023 8:29:00 PM--GetData--Received data from sensor: temp=28 humi=67 co2=1257 pm25=50 voc=77 co=3
+5/15/2023 8:29:00 PM--GetData--save database sucessfull: temp=28 humi=67 co2=1257 pm25=50 voc=77 co=3
+5/15/2023 8:29:00 PM--GetData--write listView: time: 15/5/2023/20:29:0 temp=28 humi=67 co2=1257 pm25=50 voc=77 co=3
+5/15/2023 8:29:04 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1267 pm25=48 voc=80 co=3
+5/15/2023 8:29:04 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1267 pm25=48 voc=80 co=3
+5/15/2023 8:29:04 PM--GetData--write listView: time: 15/5/2023/20:29:4 temp=28 humi=66 co2=1267 pm25=48 voc=80 co=3
+5/15/2023 8:29:09 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1271 pm25=50 voc=83 co=3
+5/15/2023 8:29:09 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1271 pm25=50 voc=83 co=3
+5/15/2023 8:29:09 PM--GetData--write listView: time: 15/5/2023/20:29:9 temp=28 humi=66 co2=1271 pm25=50 voc=83 co=3
+5/15/2023 8:29:13 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1270 pm25=50 voc=87 co=4
+5/15/2023 8:29:13 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1270 pm25=50 voc=87 co=4
+5/15/2023 8:29:13 PM--GetData--write listView: time: 15/5/2023/20:29:13 temp=28 humi=66 co2=1270 pm25=50 voc=87 co=4
+5/15/2023 8:29:18 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1266 pm25=52 voc=91 co=4
+5/15/2023 8:29:18 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1266 pm25=52 voc=91 co=4
+5/15/2023 8:29:18 PM--GetData--write listView: time: 15/5/2023/20:29:18 temp=28 humi=65 co2=1266 pm25=52 voc=91 co=4
+5/15/2023 8:29:22 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1267 pm25=52 voc=96 co=4
+5/15/2023 8:29:22 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1267 pm25=52 voc=96 co=4
+5/15/2023 8:29:22 PM--GetData--write listView: time: 15/5/2023/20:29:22 temp=28 humi=65 co2=1267 pm25=52 voc=96 co=4
+5/15/2023 8:29:27 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1261 pm25=50 voc=102 co=4
+5/15/2023 8:29:27 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1261 pm25=50 voc=102 co=4
+5/15/2023 8:29:27 PM--GetData--write listView: time: 15/5/2023/20:29:27 temp=28 humi=65 co2=1261 pm25=50 voc=102 co=4
+5/15/2023 8:29:32 PM--GetData--Received data from sensor: temp=28 humi=83 co2=1276 pm25=50 voc=108 co=4
+5/15/2023 8:29:32 PM--GetData--save database sucessfull: temp=28 humi=83 co2=1276 pm25=50 voc=108 co=4
+5/15/2023 8:29:32 PM--GetData--write listView: time: 15/5/2023/20:29:32 temp=28 humi=83 co2=1276 pm25=50 voc=108 co=4
+5/15/2023 8:29:36 PM--GetData--Received data from sensor: temp=28 humi=80 co2=1307 pm25=49 voc=114 co=3
+5/15/2023 8:29:36 PM--GetData--save database sucessfull: temp=28 humi=80 co2=1307 pm25=49 voc=114 co=3
+5/15/2023 8:29:36 PM--GetData--write listView: time: 15/5/2023/20:29:36 temp=28 humi=80 co2=1307 pm25=49 voc=114 co=3
+5/15/2023 8:29:41 PM--GetData--Received data from sensor: temp=28 humi=77 co2=1403 pm25=50 voc=119 co=3
+5/15/2023 8:29:41 PM--GetData--save database sucessfull: temp=28 humi=77 co2=1403 pm25=50 voc=119 co=3
+5/15/2023 8:29:41 PM--GetData--write listView: time: 15/5/2023/20:29:41 temp=28 humi=77 co2=1403 pm25=50 voc=119 co=3
+5/15/2023 8:29:45 PM--GetData--Received data from sensor: temp=28 humi=75 co2=1490 pm25=51 voc=124 co=3
+5/15/2023 8:29:45 PM--GetData--save database sucessfull: temp=28 humi=75 co2=1490 pm25=51 voc=124 co=3
+5/15/2023 8:29:45 PM--GetData--write listView: time: 15/5/2023/20:29:45 temp=28 humi=75 co2=1490 pm25=51 voc=124 co=3
+5/15/2023 8:29:50 PM--GetData--Received data from sensor: temp=28 humi=72 co2=1523 pm25=52 voc=129 co=4
+5/15/2023 8:29:50 PM--GetData--save database sucessfull: temp=28 humi=72 co2=1523 pm25=52 voc=129 co=4
+5/15/2023 8:29:50 PM--GetData--write listView: time: 15/5/2023/20:29:50 temp=28 humi=72 co2=1523 pm25=52 voc=129 co=4
+5/15/2023 8:29:54 PM--GetData--Received data from sensor: temp=28 humi=69 co2=1540 pm25=49 voc=134 co=4
+5/15/2023 8:29:54 PM--GetData--save database sucessfull: temp=28 humi=69 co2=1540 pm25=49 voc=134 co=4
+5/15/2023 8:29:54 PM--GetData--write listView: time: 15/5/2023/20:29:54 temp=28 humi=69 co2=1540 pm25=49 voc=134 co=4
+5/15/2023 8:29:58 PM--GetData--Received data from sensor: temp=28 humi=68 co2=1556 pm25=52 voc=138 co=4
+5/15/2023 8:29:58 PM--GetData--save database sucessfull: temp=28 humi=68 co2=1556 pm25=52 voc=138 co=4
+5/15/2023 8:29:58 PM--GetData--write listView: time: 15/5/2023/20:29:58 temp=28 humi=68 co2=1556 pm25=52 voc=138 co=4
+5/15/2023 8:30:03 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1557 pm25=52 voc=143 co=4
+5/15/2023 8:30:03 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1557 pm25=52 voc=143 co=4
+5/15/2023 8:30:03 PM--GetData--write listView: time: 15/5/2023/20:30:3 temp=28 humi=66 co2=1557 pm25=52 voc=143 co=4
+5/15/2023 8:30:07 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1557 pm25=50 voc=147 co=4
+5/15/2023 8:30:07 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1557 pm25=50 voc=147 co=4
+5/15/2023 8:30:07 PM--GetData--write listView: time: 15/5/2023/20:30:7 temp=28 humi=66 co2=1557 pm25=50 voc=147 co=4
+5/15/2023 8:30:12 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1559 pm25=51 voc=152 co=4
+5/15/2023 8:30:12 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1559 pm25=51 voc=152 co=4
+5/15/2023 8:30:12 PM--GetData--write listView: time: 15/5/2023/20:30:12 temp=28 humi=66 co2=1559 pm25=51 voc=152 co=4
+5/15/2023 8:30:16 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1567 pm25=51 voc=157 co=4
+5/15/2023 8:30:16 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1567 pm25=51 voc=157 co=4
+5/15/2023 8:30:16 PM--GetData--write listView: time: 15/5/2023/20:30:16 temp=28 humi=65 co2=1567 pm25=51 voc=157 co=4
+5/15/2023 8:30:21 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1565 pm25=51 voc=162 co=4
+5/15/2023 8:30:21 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1565 pm25=51 voc=162 co=4
+5/15/2023 8:30:21 PM--GetData--write listView: time: 15/5/2023/20:30:21 temp=28 humi=65 co2=1565 pm25=51 voc=162 co=4
+5/15/2023 8:30:25 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1564 pm25=51 voc=167 co=4
+5/15/2023 8:30:25 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1564 pm25=51 voc=167 co=4
+5/15/2023 8:30:25 PM--GetData--write listView: time: 15/5/2023/20:30:25 temp=28 humi=65 co2=1564 pm25=51 voc=167 co=4
+5/15/2023 8:30:30 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1564 pm25=52 voc=171 co=4
+5/15/2023 8:30:30 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1564 pm25=52 voc=171 co=4
+5/15/2023 8:30:30 PM--GetData--write listView: time: 15/5/2023/20:30:30 temp=28 humi=65 co2=1564 pm25=52 voc=171 co=4
+5/15/2023 8:30:34 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1541 pm25=48 voc=175 co=4
+5/15/2023 8:30:34 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1541 pm25=48 voc=175 co=4
+5/15/2023 8:30:34 PM--GetData--write listView: time: 15/5/2023/20:30:34 temp=28 humi=65 co2=1541 pm25=48 voc=175 co=4
+5/15/2023 8:30:39 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1503 pm25=52 voc=180 co=4
+5/15/2023 8:30:39 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1503 pm25=52 voc=180 co=4
+5/15/2023 8:30:39 PM--GetData--write listView: time: 15/5/2023/20:30:39 temp=28 humi=64 co2=1503 pm25=52 voc=180 co=4
+5/15/2023 8:30:43 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1464 pm25=51 voc=185 co=4
+5/15/2023 8:30:43 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1464 pm25=51 voc=185 co=4
+5/15/2023 8:30:43 PM--GetData--write listView: time: 15/5/2023/20:30:43 temp=28 humi=64 co2=1464 pm25=51 voc=185 co=4
+5/15/2023 8:30:48 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1443 pm25=49 voc=189 co=4
+5/15/2023 8:30:48 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1443 pm25=49 voc=189 co=4
+5/15/2023 8:30:48 PM--GetData--write listView: time: 15/5/2023/20:30:48 temp=28 humi=64 co2=1443 pm25=49 voc=189 co=4
+5/15/2023 8:30:52 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1422 pm25=49 voc=193 co=4
+5/15/2023 8:30:52 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1422 pm25=49 voc=193 co=4
+5/15/2023 8:30:52 PM--GetData--write listView: time: 15/5/2023/20:30:52 temp=28 humi=64 co2=1422 pm25=49 voc=193 co=4
+5/15/2023 8:30:56 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1402 pm25=49 voc=196 co=4
+5/15/2023 8:30:56 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1402 pm25=49 voc=196 co=4
+5/15/2023 8:30:56 PM--GetData--write listView: time: 15/5/2023/20:30:56 temp=28 humi=64 co2=1402 pm25=49 voc=196 co=4
+5/15/2023 8:31:01 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1392 pm25=53 voc=202 co=4
+5/15/2023 8:31:01 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1392 pm25=53 voc=202 co=4
+5/15/2023 8:31:01 PM--GetData--write listView: time: 15/5/2023/20:31:1 temp=28 humi=64 co2=1392 pm25=53 voc=202 co=4
+5/15/2023 8:31:06 PM--GetData--Received data from sensor: temp=28 humi=81 co2=1392 pm25=51 voc=208 co=4
+5/15/2023 8:31:06 PM--GetData--save database sucessfull: temp=28 humi=81 co2=1392 pm25=51 voc=208 co=4
+5/15/2023 8:31:06 PM--GetData--write listView: time: 15/5/2023/20:31:6 temp=28 humi=81 co2=1392 pm25=51 voc=208 co=4
+5/15/2023 8:31:10 PM--GetData--Received data from sensor: temp=28 humi=77 co2=1648 pm25=53 voc=213 co=4
+5/15/2023 8:31:10 PM--GetData--save database sucessfull: temp=28 humi=77 co2=1648 pm25=53 voc=213 co=4
+5/15/2023 8:31:10 PM--GetData--write listView: time: 15/5/2023/20:31:10 temp=28 humi=77 co2=1648 pm25=53 voc=213 co=4
+5/15/2023 8:31:14 PM--GetData--Received data from sensor: temp=28 humi=75 co2=2409 pm25=52 voc=216 co=4
+5/15/2023 8:31:14 PM--GetData--save database sucessfull: temp=28 humi=75 co2=2409 pm25=52 voc=216 co=4
+5/15/2023 8:31:14 PM--GetData--write listView: time: 15/5/2023/20:31:14 temp=28 humi=75 co2=2409 pm25=52 voc=216 co=4
+5/15/2023 8:31:19 PM--GetData--Received data from sensor: temp=28 humi=73 co2=2561 pm25=51 voc=219 co=4
+5/15/2023 8:31:19 PM--GetData--save database sucessfull: temp=28 humi=73 co2=2561 pm25=51 voc=219 co=4
+5/15/2023 8:31:19 PM--GetData--write listView: time: 15/5/2023/20:31:19 temp=28 humi=73 co2=2561 pm25=51 voc=219 co=4
+5/15/2023 8:31:23 PM--GetData--Received data from sensor: temp=28 humi=70 co2=2601 pm25=51 voc=223 co=4
+5/15/2023 8:31:23 PM--GetData--save database sucessfull: temp=28 humi=70 co2=2601 pm25=51 voc=223 co=4
+5/15/2023 8:31:23 PM--GetData--write listView: time: 15/5/2023/20:31:23 temp=28 humi=70 co2=2601 pm25=51 voc=223 co=4
+5/15/2023 8:31:27 PM--GetData--Received data from sensor: temp=28 humi=68 co2=2606 pm25=48 voc=225 co=4
+5/15/2023 8:31:27 PM--GetData--save database sucessfull: temp=28 humi=68 co2=2606 pm25=48 voc=225 co=4
+5/15/2023 8:31:27 PM--GetData--write listView: time: 15/5/2023/20:31:27 temp=28 humi=68 co2=2606 pm25=48 voc=225 co=4
+5/15/2023 8:31:32 PM--GetData--Received data from sensor: temp=28 humi=67 co2=2605 pm25=48 voc=229 co=4
+5/15/2023 8:31:32 PM--GetData--save database sucessfull: temp=28 humi=67 co2=2605 pm25=48 voc=229 co=4
+5/15/2023 8:31:32 PM--GetData--write listView: time: 15/5/2023/20:31:32 temp=28 humi=67 co2=2605 pm25=48 voc=229 co=4
+5/15/2023 8:31:36 PM--GetData--Received data from sensor: temp=28 humi=66 co2=2605 pm25=51 voc=231 co=4
+5/15/2023 8:31:36 PM--GetData--save database sucessfull: temp=28 humi=66 co2=2605 pm25=51 voc=231 co=4
+5/15/2023 8:31:36 PM--GetData--write listView: time: 15/5/2023/20:31:36 temp=28 humi=66 co2=2605 pm25=51 voc=231 co=4
+5/15/2023 8:31:41 PM--GetData--Received data from sensor: temp=28 humi=65 co2=2348 pm25=51 voc=234 co=4
+5/15/2023 8:31:41 PM--GetData--save database sucessfull: temp=28 humi=65 co2=2348 pm25=51 voc=234 co=4
+5/15/2023 8:31:41 PM--GetData--write listView: time: 15/5/2023/20:31:41 temp=28 humi=65 co2=2348 pm25=51 voc=234 co=4
+5/15/2023 8:31:45 PM--GetData--Received data from sensor: temp=28 humi=65 co2=2114 pm25=52 voc=236 co=4
+5/15/2023 8:31:45 PM--GetData--save database sucessfull: temp=28 humi=65 co2=2114 pm25=52 voc=236 co=4
+5/15/2023 8:31:45 PM--GetData--write listView: time: 15/5/2023/20:31:45 temp=28 humi=65 co2=2114 pm25=52 voc=236 co=4
+5/15/2023 8:31:50 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1971 pm25=53 voc=239 co=4
+5/15/2023 8:31:50 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1971 pm25=53 voc=239 co=4
+5/15/2023 8:31:50 PM--GetData--write listView: time: 15/5/2023/20:31:50 temp=28 humi=65 co2=1971 pm25=53 voc=239 co=4
+5/15/2023 8:31:54 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1884 pm25=52 voc=241 co=4
+5/15/2023 8:31:54 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1884 pm25=52 voc=241 co=4
+5/15/2023 8:31:54 PM--GetData--write listView: time: 15/5/2023/20:31:54 temp=28 humi=65 co2=1884 pm25=52 voc=241 co=4
+5/15/2023 8:31:59 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1807 pm25=50 voc=241 co=4
+5/15/2023 8:31:59 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1807 pm25=50 voc=241 co=4
+5/15/2023 8:31:59 PM--GetData--write listView: time: 15/5/2023/20:31:59 temp=28 humi=64 co2=1807 pm25=50 voc=241 co=4
+5/15/2023 8:32:03 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1785 pm25=47 voc=245 co=4
+5/15/2023 8:32:03 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1785 pm25=47 voc=245 co=4
+5/15/2023 8:32:03 PM--GetData--write listView: time: 15/5/2023/20:32:3 temp=28 humi=64 co2=1785 pm25=47 voc=245 co=4
+5/15/2023 8:32:08 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1731 pm25=50 voc=248 co=4
+5/15/2023 8:32:08 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1731 pm25=50 voc=248 co=4
+5/15/2023 8:32:08 PM--GetData--write listView: time: 15/5/2023/20:32:8 temp=28 humi=64 co2=1731 pm25=50 voc=248 co=4
+5/15/2023 8:32:12 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1633 pm25=53 voc=250 co=4
+5/15/2023 8:32:12 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1633 pm25=53 voc=250 co=4
+5/15/2023 8:32:12 PM--GetData--write listView: time: 15/5/2023/20:32:12 temp=28 humi=64 co2=1633 pm25=53 voc=250 co=4
+5/15/2023 8:32:16 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1558 pm25=51 voc=252 co=4
+5/15/2023 8:32:16 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1558 pm25=51 voc=252 co=4
+5/15/2023 8:32:16 PM--GetData--write listView: time: 15/5/2023/20:32:16 temp=28 humi=63 co2=1558 pm25=51 voc=252 co=4
+5/15/2023 8:32:21 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1491 pm25=50 voc=254 co=4
+5/15/2023 8:32:21 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1491 pm25=50 voc=254 co=4
+5/15/2023 8:32:21 PM--GetData--write listView: time: 15/5/2023/20:32:21 temp=28 humi=64 co2=1491 pm25=50 voc=254 co=4
+5/15/2023 8:32:26 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1459 pm25=52 voc=256 co=4
+5/15/2023 8:32:26 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1459 pm25=52 voc=256 co=4
+5/15/2023 8:32:26 PM--GetData--write listView: time: 15/5/2023/20:32:26 temp=28 humi=64 co2=1459 pm25=52 voc=256 co=4
+5/15/2023 8:32:30 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1433 pm25=53 voc=259 co=4
+5/15/2023 8:32:30 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1433 pm25=53 voc=259 co=4
+5/15/2023 8:32:30 PM--GetData--write listView: time: 15/5/2023/20:32:30 temp=28 humi=64 co2=1433 pm25=53 voc=259 co=4
+5/15/2023 8:32:35 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1407 pm25=52 voc=260 co=4
+5/15/2023 8:32:35 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1407 pm25=52 voc=260 co=4
+5/15/2023 8:32:35 PM--GetData--write listView: time: 15/5/2023/20:32:35 temp=28 humi=63 co2=1407 pm25=52 voc=260 co=4
+5/15/2023 8:32:39 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1385 pm25=51 voc=263 co=4
+5/15/2023 8:32:39 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1385 pm25=51 voc=263 co=4
+5/15/2023 8:32:39 PM--GetData--write listView: time: 15/5/2023/20:32:39 temp=28 humi=63 co2=1385 pm25=51 voc=263 co=4
+5/15/2023 8:32:44 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1366 pm25=49 voc=263 co=4
+5/15/2023 8:32:44 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1366 pm25=49 voc=263 co=4
+5/15/2023 8:32:44 PM--GetData--write listView: time: 15/5/2023/20:32:44 temp=28 humi=63 co2=1366 pm25=49 voc=263 co=4
+5/15/2023 8:32:48 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1341 pm25=46 voc=266 co=4
+5/15/2023 8:32:48 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1341 pm25=46 voc=266 co=4
+5/15/2023 8:32:48 PM--GetData--write listView: time: 15/5/2023/20:32:48 temp=28 humi=63 co2=1341 pm25=46 voc=266 co=4
+5/15/2023 8:32:52 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1323 pm25=48 voc=269 co=4
+5/15/2023 8:32:52 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1323 pm25=48 voc=269 co=4
+5/15/2023 8:32:52 PM--GetData--write listView: time: 15/5/2023/20:32:52 temp=28 humi=63 co2=1323 pm25=48 voc=269 co=4
+5/15/2023 8:32:57 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1308 pm25=50 voc=270 co=4
+5/15/2023 8:32:57 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1308 pm25=50 voc=270 co=4
+5/15/2023 8:32:57 PM--GetData--write listView: time: 15/5/2023/20:32:57 temp=28 humi=63 co2=1308 pm25=50 voc=270 co=4
+5/15/2023 8:33:01 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1294 pm25=50 voc=272 co=4
+5/15/2023 8:33:01 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1294 pm25=50 voc=272 co=4
+5/15/2023 8:33:01 PM--GetData--write listView: time: 15/5/2023/20:33:1 temp=28 humi=63 co2=1294 pm25=50 voc=272 co=4
+5/15/2023 8:33:06 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1291 pm25=50 voc=275 co=4
+5/15/2023 8:33:06 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1291 pm25=50 voc=275 co=4
+5/15/2023 8:33:06 PM--GetData--write listView: time: 15/5/2023/20:33:6 temp=28 humi=63 co2=1291 pm25=50 voc=275 co=4
+5/15/2023 8:33:10 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1279 pm25=50 voc=276 co=4
+5/15/2023 8:33:10 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1279 pm25=50 voc=276 co=4
+5/15/2023 8:33:10 PM--GetData--write listView: time: 15/5/2023/20:33:10 temp=28 humi=63 co2=1279 pm25=50 voc=276 co=4
+5/15/2023 8:33:14 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1266 pm25=50 voc=277 co=4
+5/15/2023 8:33:14 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1266 pm25=50 voc=277 co=4
+5/15/2023 8:33:14 PM--GetData--write listView: time: 15/5/2023/20:33:14 temp=28 humi=63 co2=1266 pm25=50 voc=277 co=4
+5/15/2023 8:33:19 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1257 pm25=47 voc=277 co=4
+5/15/2023 8:33:19 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1257 pm25=47 voc=277 co=4
+5/15/2023 8:33:19 PM--GetData--write listView: time: 15/5/2023/20:33:19 temp=28 humi=63 co2=1257 pm25=47 voc=277 co=4
+5/15/2023 8:33:23 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1252 pm25=50 voc=281 co=4
+5/15/2023 8:33:23 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1252 pm25=50 voc=281 co=4
+5/15/2023 8:33:23 PM--GetData--write listView: time: 15/5/2023/20:33:23 temp=28 humi=63 co2=1252 pm25=50 voc=281 co=4
+5/15/2023 8:33:28 PM--GetData--Received data from sensor: temp=28 humi=63 co2=1250 pm25=51 voc=283 co=4
+5/15/2023 8:33:28 PM--GetData--save database sucessfull: temp=28 humi=63 co2=1250 pm25=51 voc=283 co=4
+5/15/2023 8:33:28 PM--GetData--write listView: time: 15/5/2023/20:33:28 temp=28 humi=63 co2=1250 pm25=51 voc=283 co=4
+5/15/2023 8:33:32 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1246 pm25=51 voc=284 co=4
+5/15/2023 8:33:32 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1246 pm25=51 voc=284 co=4
+5/15/2023 8:33:32 PM--GetData--write listView: time: 15/5/2023/20:33:32 temp=28 humi=64 co2=1246 pm25=51 voc=284 co=4
+5/15/2023 8:33:37 PM--GetData--Received data from sensor: temp=28 humi=64 co2=1239 pm25=50 voc=287 co=4
+5/15/2023 8:33:37 PM--GetData--save database sucessfull: temp=28 humi=64 co2=1239 pm25=50 voc=287 co=4
+5/15/2023 8:33:37 PM--GetData--write listView: time: 15/5/2023/20:33:37 temp=28 humi=64 co2=1239 pm25=50 voc=287 co=4
+5/15/2023 8:33:41 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1237 pm25=49 voc=289 co=4
+5/15/2023 8:33:41 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1237 pm25=49 voc=289 co=4
+5/15/2023 8:33:41 PM--GetData--write listView: time: 15/5/2023/20:33:41 temp=28 humi=65 co2=1237 pm25=49 voc=289 co=4
+5/15/2023 8:33:46 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1237 pm25=51 voc=291 co=4
+5/15/2023 8:33:46 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1237 pm25=51 voc=291 co=4
+5/15/2023 8:33:46 PM--GetData--write listView: time: 15/5/2023/20:33:46 temp=28 humi=65 co2=1237 pm25=51 voc=291 co=4
+5/15/2023 8:33:50 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1238 pm25=52 voc=293 co=4
+5/15/2023 8:33:50 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1238 pm25=52 voc=293 co=4
+5/15/2023 8:33:50 PM--GetData--write listView: time: 15/5/2023/20:33:50 temp=28 humi=65 co2=1238 pm25=52 voc=293 co=4
+5/15/2023 8:33:55 PM--GetData--Received data from sensor: temp=28 humi=65 co2=1247 pm25=49 voc=292 co=4
+5/15/2023 8:33:55 PM--GetData--save database sucessfull: temp=28 humi=65 co2=1247 pm25=49 voc=292 co=4
+5/15/2023 8:33:55 PM--GetData--write listView: time: 15/5/2023/20:33:55 temp=28 humi=65 co2=1247 pm25=49 voc=292 co=4
+5/15/2023 8:33:59 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1241 pm25=47 voc=295 co=4
+5/15/2023 8:33:59 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1241 pm25=47 voc=295 co=4
+5/15/2023 8:33:59 PM--GetData--write listView: time: 15/5/2023/20:33:59 temp=28 humi=66 co2=1241 pm25=47 voc=295 co=4
+5/15/2023 8:34:04 PM--GetData--Received data from sensor: temp=28 humi=66 co2=1242 pm25=48 voc=294 co=4
+5/15/2023 8:34:04 PM--GetData--save database sucessfull: temp=28 humi=66 co2=1242 pm25=48 voc=294 co=4
+5/15/2023 8:34:04 PM--GetData--write listView: time: 15/5/2023/20:34:4 temp=28 humi=66 co2=1242 pm25=48 voc=294 co=4
